@@ -13,6 +13,11 @@
 
 
 ## 서울특별시
+- 종류: 일식
+- 주소: 서울특별시 서초구 주흥길 3
+- 추천메뉴: 시노기 라멘
+- 특징: 라멘
+- [지도 바로가기](https://map.naver.com/p/search/%EB%A9%98%EC%95%BC%EC%8B%9C%EB%85%B8%EA%B8%B0%20%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%A3%BC%ED%9D%A5%EA%B8%B8%203/place/1185505028?c=15.00,0,0,0,dh&isCorrectAnswer=true)
 
 
 ## 강원도
