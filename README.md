@@ -19,6 +19,13 @@
 
 
 ## 경기도
+### 장수촌
+- 종류: 한식
+- 주소: 경기 용인시 수지구 동천로 631
+- 추천메뉴: 누룽지백숙
+- 특징: 둘이 먹다가 둘다 죽습니다 조심하셔야해요
+- [지도 바로가기](https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%20%EB%A7%9B%EC%A7%91/place/11386100?placePath=?entry=pll&from=nx&fromNxList=true&n_ad_group_type=10&n_query=%EC%9A%A9%EC%9D%B8%EB%A7%9B%EC%A7%91&searchType=place&c=15.00,0,0,0,dh)
+
 
 
 ## 경상남도
