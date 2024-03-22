@@ -19,7 +19,10 @@
 
 
 ## 경기도
-
+- 종류: 일식
+- 주소: 경기도 파주시
+- 추천메뉴: 계란초밥
+- [지도 바로가기](https://map.naver.com/p/search/%ED%8C%8C%EC%A3%BC%20%EC%98%A4%EC%95%BC%EC%8A%A4%EB%AF%B8/place/1864100470?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place)  ← 네이버 지도 또는 다음 지도를 추가해주세요.
 
 ## 경상남도
 
