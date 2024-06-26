@@ -13,7 +13,11 @@
 
 
 ## 서울특별시
-
+### 동흥관
+- 종류: 중식
+- 주소: 서울 금천구 시흥대로63길 20
+- 추천메뉴: 탕수육, 간짜장
+- [지도 바로가기](https://map.naver.com/p/entry/place/18525138?lng=126.8985905&lat=37.4551212&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh)
 
 ## 강원도
 
