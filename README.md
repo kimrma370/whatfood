@@ -220,6 +220,11 @@
 - [지도 바로가기] (https://map.naver.com/p/search/%EB%A9%94%EB%B0%80%EC%B9%98%ED%82%A8%20%EB%A7%89%EA%B5%AD%EC%88%98/place/11817590?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh))
 
 ## 광주광역시
+### 식당 이름
+- 종류: 제과점
+- 주소: 광주광역시 동구 충장로 93-6
+- 추천메뉴: 나비파이, 공룡알
+- [지도 바로가기](https://map.naver.com/p/search/%EA%B6%81%EC%A0%84%EC%A0%9C%EA%B3%BC/place/13297601?c=13.00,0,0,0,dh&placePath=?entry=pll&from=nx&fromNxList=true&searchType=place)
 
 ## 대구광역시
 ### 반야월 막창
