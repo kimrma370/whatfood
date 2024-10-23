@@ -15,6 +15,12 @@
 
 ## 서울특별시
 
+### 여로집
+- 종류: 한식
+- 주소: 서울 영등포구 영중로10길 26
+- 추천메뉴: 오징어초무침
+- [지도 바로가기](https://map.naver.com/p/entry/place/11815662?c=15.00,0,0,0,dh)
+
 ### 우리집
 - 종류 : 한식
 - 주소 : 서울특별시 우리집
@@ -37,10 +43,11 @@
 - 특징: 둘이 먹다가 둘다 죽습니다 조심하셔야해요
 - [지도 바로가기](https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%20%EB%A7%9B%EC%A7%91/place/11386100?placePath=?entry=pll&from=nx&fromNxList=true&n_ad_group_type=10&n_query=%EC%9A%A9%EC%9D%B8%EB%A7%9B%EC%A7%91&searchType=place&c=15.00,0,0,0,dh)
 
--   종류: 한식
--   주소: 경기 이천시 신둔면 서이천로 876 삼대부대찌개
--   추천메뉴: 부대찌개
--   [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
+### 삼대부대찌개
+- 종류: 한식
+- 주소: 경기 이천시 신둔면 서이천로 876 삼대부대찌개
+- 추천메뉴: 부대찌개
+- [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
 
 ## 경상남도
 
@@ -54,11 +61,11 @@
 
 ### 해피준 카페
 
--   종류: 카페
--   주소: 충남 태안군 소원면 파도길 63-12
--   추천메뉴: 피칸라떼
--   특징: 파도리 뷰맛집
--   [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
+- 종류: 카페
+- 주소: 충남 태안군 소원면 파도길 63-12
+- 추천메뉴: 피칸라떼
+- 특징: 파도리 뷰맛집
+- [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
 
 ## 충청북도
 
