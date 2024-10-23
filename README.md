@@ -20,7 +20,7 @@
 - 특징: 맛있는 족발
 - [지도 바로가기](https://naver.me/5FeZmEkt)
 
-### 베리굳베
+### 베리굳베이글
 - 종류: 카페
 - 주소: 서울 동작구 동작대로 187 1층
 - 추천메뉴: 카야버터 베이글
@@ -112,6 +112,13 @@
 ## 강원도
 
 ## 경기도
+### 오카츠
+- 종류: 돈가스
+- 주소: 경기 용인시 수지구 현암로 139 가동 1층 106호
+- 추천메뉴: 히레카츠(안심)
+- 특징: 느끼하지 않은 깔끔한 돈가스
+- [지도 바로가기](https://map.naver.com/p/search/%EC%A3%BD%EC%A0%84%EB%8F%99%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1859723536?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=14.00,0,0,0,dh)
+
 ### 서양밥집
 - 종류: 양식
 - 주소: 경기 평택시 안중읍 송담2로 55 1층 101호
@@ -217,7 +224,7 @@
 - 주소: 충청북도 충주시 중앙탑면 탑평리 42
 - 추천메뉴: 막국수 + 메밀치킨
 - 특징: 막국수 + 메밀치킨 맛집
-- [지도 바로가기] (https://map.naver.com/p/search/%EB%A9%94%EB%B0%80%EC%B9%98%ED%82%A8%20%EB%A7%89%EA%B5%AD%EC%88%98/place/11817590?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh))
+- [지도 바로가기] (https://map.naver.com/p/search/%EB%A9%94%EB%B0%80%EC%B9%98%ED%82%A8%20%EB%A7%89%EA%B5%AD%EC%88%98/place/11817590?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh)
 
 ## 광주광역시
 ### 식당 이름
