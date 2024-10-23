@@ -212,6 +212,12 @@
 - [지도 바로가기](https://map.naver.com/p/entry/place/13427300?lng=126.9128971&lat=36.282706&placePath=%2Fhome&entry=plt&searchType=place)
 
 ## 충청북도
+### 중앙탑 메밀마당
+- 종류: 막국수
+- 주소: 충청북도 충주시 중앙탑면 탑평리 42
+- 추천메뉴: 막국수 + 메밀치킨
+- 특징: 막국수 + 메밀치킨 맛집
+- [지도 바로가기] (https://map.naver.com/p/search/%EB%A9%94%EB%B0%80%EC%B9%98%ED%82%A8%20%EB%A7%89%EA%B5%AD%EC%88%98/place/11817590?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh))
 
 ## 광주광역시
 
