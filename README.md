@@ -52,7 +52,12 @@
 
 
 ## 부산광역시
-
+### 금영 돼지국밥
+- 종류: 한식
+- 주소: 부산 영도구 와치로 213
+- 추천메뉴: 돼지국밥
+- 특징: 김치 맛집
+- [지도 바로가기](https://map.naver.com/p/entry/place/37797517?lng=129.065719&lat=35.0763599&placePath=%2Fhome&entry=plt&searchType=place)
 
 ## 울산광역시
 
