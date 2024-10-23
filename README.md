@@ -41,6 +41,12 @@
 - 특징: 파도리 뷰맛집
 - [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
 
+### 카페 모월
+- 종류: 카페
+- 추천메뉴 : 현미 치즈케이크 
+- 특징 : 통창뷰, 자연 
+- [지도 바로가기](https://naver.me/5aqDIZUw)
+
 
 ## 충청북도
 
