@@ -49,7 +49,11 @@
 
 
 ## 대구광역시
-
+- 종류: 음식
+- 주소: 대구광역시 동구 동호동 390-4
+- 추천메뉴: 막창
+- 특징: 너무 맛있음
+- [지도 바로보기](https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B0%98%EC%95%BC%EC%9B%94%20%EB%A7%89%EC%B0%BD/place/11732707?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place)
 
 ## 부산광역시
 
