@@ -13,6 +13,12 @@
 
 
 ## 서울특별시
+### 동흥관
+- 종류: 중식
+- 주소: 서울 금천구 시흥대로63길 20
+- 추천메뉴: 탕수육, 간짜장
+- [지도 바로가기](https://map.naver.com/p/entry/place/18525138?lng=126.8985905&lat=37.4551212&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh)
+
 ### 풍년상회
 - 한식
 - 서울시 강동구 천호옛14길 23-6
@@ -74,6 +80,7 @@
 - 주소 : 서울특별시 우리집
 - 추천메뉴 : 김치볶음밥
 - [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
+
 
 ## 강원도
 
