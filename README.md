@@ -5,7 +5,9 @@
 ---
 
 ## 양식
+
 ### 식당 이름
+
 - 종류: 한식, 중식, 일식, 분식, 카페
 - 주소: ㅇㅇ도 ㅇㅇ시
 - 추천메뉴: 메뉴명
@@ -114,6 +116,11 @@
 - 추천메뉴 : 김치볶음밥
 - [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
 
+### 나주곰탕
+- 종류: 한식
+- 주소: 서울시 영등포구
+- 추천메뉴: 나주곰탕
+- [지도 바로가기](https://map.naver.com/p/search/%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95/place/1575440186?c=14.00,0,0,0,dh&placePath=%3Fentry%3Dbmp)
 
 
 ## 강원도
@@ -200,7 +207,6 @@
 - 추천메뉴: 부대찌개
 - [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
 
-
 ## 경상남도
 
 ## 경상북도
@@ -260,7 +266,6 @@
 - 추천메뉴: 막창
 - 특징: 너무 맛있음
 - [지도 바로보기](https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B0%98%EC%95%BC%EC%9B%94%20%EB%A7%89%EC%B0%BD/place/11732707?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place)
-
 
 ## 부산광역시
 ### 금영 돼지국밥
