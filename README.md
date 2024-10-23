@@ -67,6 +67,13 @@
 - 특징: 파도리 뷰맛집
 - [지도 바로가기](https://map.naver.com/p/search/%ED%95%B4%ED%94%BC%EC%A4%80/place/1497846747?c=15.00,0,0,0,dh&placePath=%3Fentry%253Dbmp)
 
+### 만다린
+- 종류: 중식당
+- 주소: 충남 부여군 부여읍 석탑로 74 1층 만다린
+- 추천메뉴: 탕수육, 볶음밥
+- 특징: 예전에 아르바이트 했던 곳인데 볶음밥이 맛있었습니다.
+- [지도 바로가기](https://map.naver.com/p/entry/place/13427300?lng=126.9128971&lat=36.282706&placePath=%2Fhome&entry=plt&searchType=place)
+
 ## 충청북도
 
 ## 광주광역시
