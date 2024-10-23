@@ -5,15 +5,19 @@
 ---
 
 ## 양식
-
 ### 식당 이름
-
 -   종류: 한식, 중식, 일식, 분식, 카페
 -   주소: ㅇㅇ도 ㅇㅇ시
 -   추천메뉴: 메뉴명
 -   [지도 바로가기](https://map.naver.com/p/search/%EB%A7%9B%EC%A7%91?c=15.00,0,0,0,dh) ← 네이버 지도 또는 다음 지도를 추가해주세요.
 
 ## 서울특별시
+
+### 위안바오
+- 종류: 중식
+- 주소: 서울 노원구 동일로 1426 1층 103호
+- 추천메뉴: 우육탕면 (만두들드 맛있어요.)
+- [지도 바로가기](https://map.naver.com/p/search/%EB%85%B8%EC%9B%90%20%EC%9A%B0%EC%9C%A1%ED%83%95%EB%A9%B4/place/1223729035?placePath=%3Fentry%3Dpll%26from%3Dnx%26fromNxList%3Dtrue&placeSearchOption=entry%3Dpll%26fromNxList%3Dtrue&searchType=place)  ← 네이버 지도 또는 다음 지도를 추가해주세요.
 
 ### 여로집
 - 종류: 한식
