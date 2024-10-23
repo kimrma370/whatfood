@@ -19,6 +19,12 @@
 
 
 ## 경기도
+### 오카츠
+- 종류: 돈가스
+- 주소: 경기 용인시 수지구 현암로 139 가동 1층 106호
+- 추천메뉴: 히레카츠(안심)
+- 특징: 느끼하지 않은 깔끔한 돈가스
+- [지도 바로가기](https://map.naver.com/p/search/%EC%A3%BD%EC%A0%84%EB%8F%99%20%EB%8F%88%EA%B9%8C%EC%8A%A4/place/1859723536?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=14.00,0,0,0,dh)
 
 
 ## 경상남도
