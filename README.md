@@ -212,6 +212,12 @@
 - 추천메뉴: 부대찌개
 - [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
 
+### 등촌샤브칼국수 본점
+- 종류: 한식
+- 주소: 경기 고양시 일산동구 무궁화로 118
+- 추천메뉴: 버섯칼국수
+- [지도바로가](https://naver.me/xs3KZx86)
+
 ## 경상남도
 
 ## 경상북도
